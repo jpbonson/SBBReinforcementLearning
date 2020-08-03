@@ -1,4 +1,5 @@
-[![Build Status](https://travis-ci.org/jpbonson/SBBFramework.svg?branch=master)](https://travis-ci.org/jpbonson/SBBFramework) [![Coverage Status](https://coveralls.io/repos/github/jpbonson/SBBFramework/badge.svg?branch=master)](https://coveralls.io/github/jpbonson/SBBFramework?branch=master)
+[![Build Status](https://travis-ci.org/jpbonson/SBBFramework.svg?branch=master)](https://travis-ci.org/jpbonson/SBBFramework) [![Coverage Status](https://coveralls.io/repos/github/jpbonson/SBBFramework/badge.svg?branch=master)](https://coveralls.io/github/jpbonson/SBBFramework?branch=master)[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjpbonson%2FSBBFramework.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjpbonson%2FSBBFramework?ref=badge_shield)
+
 
 # SBBFramework
 Python implementation of **Symbiotic Bid-Based (SBB)** framework for problem decomposition using Genetic Programming (GP). This algorithm was developed by the NIMS laboratory, Dalhousie University, Canada.
@@ -183,3 +184,7 @@ A match starts with a 'new_match' message from the server, then sequences of 'ma
 - **Sent by:** client
 - **Parameters:** 
     - 'result': a value from 0.0 to 1.0 indicating how the player performed in this match (float)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjpbonson%2FSBBFramework.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjpbonson%2FSBBFramework?ref=badge_large)
